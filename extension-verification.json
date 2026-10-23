@@ -1,0 +1,80 @@
+{
+  "browser": "156.0.8078.4",
+  "initial": {
+    "first": {
+      "passed": true,
+      "initializedBefore": false,
+      "initializedAfter": true,
+      "firstBatchMs": 192.09999990463257,
+      "scores": {
+        "the": 7.73,
+        "unreadable": 2.62,
+        "indented": 2.65,
+        "overlay": 3.24,
+        "sesquipedalian": 1.22,
+        "quuxzzzz": 0
+      }
+    },
+    "second": {
+      "passed": true,
+      "initializedBefore": true,
+      "initializedAfter": true,
+      "firstBatchMs": 0,
+      "scores": {
+        "the": 7.73,
+        "unreadable": 2.62,
+        "indented": 2.65,
+        "overlay": 3.24,
+        "sesquipedalian": 1.22,
+        "quuxzzzz": 0
+      }
+    },
+    "lookupResourceRequests": 0,
+    "serviceWorker": {
+      "passed": true,
+      "initializedBefore": false,
+      "initializedAfter": true,
+      "firstBatchMs": 152,
+      "scores": {
+        "the": 7.73,
+        "unreadable": 2.62,
+        "indented": 2.65,
+        "overlay": 3.24,
+        "sesquipedalian": 1.22,
+        "quuxzzzz": 0
+      }
+    }
+  },
+  "repeatedWorker": {
+    "passed": true,
+    "initializedBefore": true,
+    "initializedAfter": true,
+    "firstBatchMs": 0.09999990463256836,
+    "scores": {
+      "the": 7.73,
+      "unreadable": 2.62,
+      "indented": 2.65,
+      "overlay": 3.24,
+      "sesquipedalian": 1.22,
+      "quuxzzzz": 0
+    }
+  },
+  "restartedWorker": {
+    "passed": true,
+    "initializedBefore": false,
+    "initializedAfter": true,
+    "firstBatchMs": 147.90000009536743,
+    "scores": {
+      "the": 7.73,
+      "unreadable": 2.62,
+      "indented": 2.65,
+      "overlay": 3.24,
+      "sesquipedalian": 1.22,
+      "quuxzzzz": 0
+    }
+  },
+  "externalRequests": [],
+  "pageErrors": [],
+  "csp": "script-src 'self'; connect-src 'none'",
+  "note": "Local unpacked MV3 verification; no CI or remote requests."
+}

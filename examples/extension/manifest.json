@@ -1,0 +1,8 @@
+{
+  "manifest_version": 3,
+  "name": "wordfreq-js local verification",
+  "version": "0.1.0",
+  "background": { "service_worker": "background.js", "type": "module" },
+  "action": { "default_popup": "index.html" },
+  "content_security_policy": { "extension_pages": "script-src 'self'; object-src 'self'; connect-src 'none'" }
+}

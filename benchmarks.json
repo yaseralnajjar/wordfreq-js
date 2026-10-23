@@ -1,0 +1,12 @@
+{
+  "runtime": "v24.22.1",
+  "bundle_bytes": 2181996,
+  "import_ms": 8.941040999999998,
+  "first_lookup_ms": 171.00775000000002,
+  "warm_10000_lookups_ms": 85.51454100000001,
+  "heap_growth_bytes": 70234248,
+  "example": {
+    "unreadable": 2.62
+  },
+  "note": "One local run, not a performance guarantee; heap growth includes transient allocations before GC."
+}
